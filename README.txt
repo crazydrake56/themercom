@@ -1,6 +1,6 @@
 Themercom
 -------
-Themercom is a responsive, HTML5 based, Zen 7.x-5.x sub-theme.
+Themercom is a responsive, HTML5 based, Zen 7.x-5.x sub-theme. Balls
 
 
 Installation
